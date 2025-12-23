@@ -75,22 +75,23 @@ The goal is to demonstrate practical data analysis skills using real-world data 
 
 ## Repository Structure
 
+```
 airbnb-bologna-analysis/
 ├── notebooks/
-│ └── airbnb-analysis-bologna.ipynb
+│   └── airbnb_bologna_portfolio.ipynb
+├── figures/
 ├── data/
-│ └── listings.csv
-├── requirements.txt
 ├── README.md
-
----
+```
 
 ## How to Run the Project
 
 1. Clone the repository
 2. Create and activate a virtual environment
 3. Install dependencies:
+   ```
    pip install -r requirements.txt
+   ```
 4. Run the notebook from top to bottom
 
 ---
