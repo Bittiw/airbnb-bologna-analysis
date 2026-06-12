@@ -69,7 +69,6 @@ The goal is to demonstrate practical data analysis skills using real-world data 
 - Matplotlib, Seaborn
 - Geopy
 - Jupyter Notebook
-- Git & GitHub
 
 ---
 
@@ -99,4 +98,3 @@ airbnb-bologna-analysis/
 ## Author
 
 **Bita Koohestani**  
-Computer Engineering Student | Data Analysis & Visualization
